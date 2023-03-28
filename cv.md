@@ -1,4 +1,5 @@
 ![My_photo](/Me.jpg)
+
 ======================================================================
 
 # ANDRII KAZUN
@@ -20,6 +21,25 @@ Professional in  commercial & art photography.
 ### Education: 
 2002 – Chernihiv State Technological University (Diploma with honors). Specialty: accounting and auditing. Thesis: Accounting and analysis of the production cost of products of an industrial enterprise. While studying at the university  I interned at JSC «Chernihiv Dairy Factory», JSC «Chernihiv bakery» and JSC «Chernihiv Pasta Factory».
 1997 – Chernihiv secondary school, physics & math class  (graduated with a silver medal).
+
+### Projects:
+Course project of creating a bookstore on React.js (authorization, book catalog, specific book, shopping cart):
+[GitHub](https://github.com/Andrew4u/prometheus-x-course-task)
+[Gh-pages](https://andrew4u.github.io/prometheus-x-course-task/) 
+
+### Code example:
+```
+function disemvowel(str) {
+  let arr = [];
+  for (let i of str) {
+    if (i.match(/[auioe]/i) === null) {
+      arr.push(i);
+    }
+  }
+  let str_new = arr.join('');
+  return str_new;
+}
+```
 
 ### Trainings & Certificates:
 *	Certificate of achievement by TestProvider “Git basics”, score 967/1000 (studying on ITVDN);
@@ -54,8 +74,8 @@ Achievements:
 *	registration of gratitude in the work book for the contribution to the development of the bank.
 
 #### May, 2003 – November, 2006  – JSC “POLIKOMBANK” - Chernihiv
-    Position: economist of the securities and investment department.
-    Duties:
+Position: economist of the securities and investment department.
+Duties:
 *	realization of commercial and commission activity concerning purchase and sale of shares, bank reporting to the NBU and NSSMC.
 Achievements:
 *	automation of the process of buying shares on the secondary market of individuals.
