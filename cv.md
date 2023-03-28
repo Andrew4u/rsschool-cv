@@ -54,30 +54,30 @@ function disemvowel(str) {
 ### Work experience:
 
 #### November, 2014 – till now – photographer (self-employed person)
-Competencies: photography in different genres and formats (from individual to corporate & advertising)
+**Competencies:** photography in different genres and formats (from individual to corporate & advertising)
 Processing of photos in different graphic editors such as Capture one Pro, Adobe Lightroom, Adobe Photoshop. Professional photo retouching and color correction. 
-Achievements: member of the National Union of Photographers of Ukraine, participation in joint photo exhibitions, finalist and prize-winner of international and local competitions, photo prizes and photo galleries.
+**Achievements:** member of the National Union of Photographers of Ukraine, participation in joint photo exhibitions, finalist and prize-winner of international and local competitions, photo prizes and photo galleries.
 
 #### November, 2006 – October, 2014  – JSC «BANK PERSHYI» - Kyiv (previous names: JSC "BG Bank", JSC «Universal Bank for Development and Partnership» )
-Position: director of the Securities Department (held this post for the last 3 years); previously held the posts of Deputy Director of the Securities Department, chief of securities operations, deputy chief of securities operations, chief economist of securities operations.
-Duties: 
+**Position:** director of the Securities Department (held this post for the last 3 years); previously held the posts of Deputy Director of the Securities Department, chief of securities operations, deputy chief of securities operations, chief economist of securities operations.
+**Duties:** 
 *	realization of dealer and brokerage operations with securities, repurchase agreements, execution of contracts, calculation of data on transactions for accounting or off balance sheet;
 *	analysis of issuers of bonds, preparation of materials for the credit committee;
 *	organization and servicing of the issue of bonds of own issue;
 *	bank reporting to the NBU, NSSMC reports, revaluation of securities, forming of reserves;
 *	support of the bank's share capital, organization and holding of the general shareholders' meetings;
 *	development and updating of methodology on securities transactions according to the requirements  of the NBU and NSSMC (internal regulations, instructions, technological cards, etc.).
-Achievements:
+**Achievements:**
 *   quantitative and qualitative increase  of securities portfolio;
 *   conducting operations with sovereign Eurobonds on the international market;
 *	election as a member of the banking Committee of the Association Ukrainian Stock Traders;
 *	registration of gratitude in the work book for the contribution to the development of the bank.
 
 #### May, 2003 – November, 2006  – JSC “POLIKOMBANK” - Chernihiv
-Position: economist of the securities and investment department.
-Duties:
+**Position:** economist of the securities and investment department.
+**Duties:**
 *	realization of commercial and commission activity concerning purchase and sale of shares, bank reporting to the NBU and NSSMC.
-Achievements:
+**Achievements:**
 *	automation of the process of buying shares on the secondary market of individuals.
 
 ### Additional skills:
